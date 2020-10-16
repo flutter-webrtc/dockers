@@ -32,4 +32,4 @@ server_ip=your docker host ip
 
 ### Screenshot
 
-<img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/01.jpg"/><img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/02.jpg"/>
+<img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/01.jpg"/> <img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/02.jpg"/>
