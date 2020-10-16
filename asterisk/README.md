@@ -1,6 +1,6 @@
 # Asterisk 16
 
-## asterisk docker image for dart-sip-ua testing
+## Asterisk Dockerfile for dart-sip-ua testing
 
 ### SIP accounts
 
