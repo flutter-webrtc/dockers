@@ -5,8 +5,8 @@
 ### SIP accounts
 
 * 300 (for linphone or other standard sip client)
-* 400 (webrt, dart-sip-ua, jssip)
-* 500 (webrt, dart-sip-ua, jssip)
+* 400 (webrt, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
+* 500 (webrt, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
 
 ### Extensions
 
@@ -17,7 +17,7 @@
 
 * make sure [docker](https://www.docker.com/get-started) is installed
 * run `make`
-* register with dart-sip-ua
+* register with [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua)
 * dial 400 or 500
 
 ### dart-sip-ua example settings
