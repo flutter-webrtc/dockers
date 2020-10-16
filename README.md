@@ -9,3 +9,5 @@ SIP and WebRTC related docker files.
 * OpenSIPs
 * Kamailio
 * Go-PBX
+
+## Welcome to PR docker examples on other platforms.
