@@ -5,8 +5,8 @@
 ### SIP accounts
 
 * 300 (for linphone or other standard sip client)
-* 400 (webrt, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
-* 500 (webrt, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
+* 400 (webrtc, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
+* 500 (webrtc, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
 
 ### Extensions
 
