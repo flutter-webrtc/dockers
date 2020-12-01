@@ -1,12 +1,12 @@
 # Asterisk 16
 
-## asterisk docker image for dart-sip-ua testing
+## Asterisk Dockerfile for [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua) testing
 
 ### SIP accounts
 
 * 300 (for linphone or other standard sip client)
-* 400 (webrt, dart-sip-ua, jssip)
-* 500 (webrt, dart-sip-ua, jssip)
+* 400 (webrtc, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
+* 500 (webrtc, [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua), jssip)
 
 ### Extensions
 
@@ -17,7 +17,7 @@
 
 * make sure [docker](https://www.docker.com/get-started) is installed
 * run `make`
-* register with dart-sip-ua
+* register with [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua)
 * dial 400 or 500
 
 ### dart-sip-ua example settings
@@ -32,4 +32,4 @@ server_ip=your docker host ip
 
 ### Screenshot
 
-<img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/01.jpg"/><img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/02.jpg"/>
+<img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/01.jpg"/> <img width="180" height="400" src="https://github.com/flutter-webrtc/dockers/raw/main/screenshots/asterisk/02.jpg"/>
