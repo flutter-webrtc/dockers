@@ -2,7 +2,7 @@
 
 PWD=`pwd`
 
-docker run -p 8088:8088/tcp \
+docker run --rm -it -p 8088:8088/tcp \
 -p 8089:8089/tcp \
 -p 5060:5060/udp \
 -p 5060:5060/tcp \
